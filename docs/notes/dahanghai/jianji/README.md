@@ -5,7 +5,7 @@ permalink: /dahanghai/wna5ge1b/
 ---
 # 剪辑特训
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/YJ0UdReZCoLKybxQfmNcptugn4g`](https://jviztcgxxfy.feishu.cn/docx/YJ0UdReZCoLKybxQfmNcptugn4g)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/YJ0UdReZCoLKybxQfmNcptugn4g`](https://jviztcgxxfy.feishu.cn/docx/YJ0UdReZCoLKybxQfmNcptugn4g)
 
 ![](img/200330f91782facce3e9cb9757e34443.png)
 

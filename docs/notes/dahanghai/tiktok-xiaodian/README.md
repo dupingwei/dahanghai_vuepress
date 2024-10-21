@@ -5,7 +5,7 @@ permalink: /dahanghai/8mpe4ww8/
 ---
 # TikTok 美区小店入门
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/AYv8do5nboNqqjxEtotcruhSnqf`](https://jviztcgxxfy.feishu.cn/docx/AYv8do5nboNqqjxEtotcruhSnqf)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/AYv8do5nboNqqjxEtotcruhSnqf`](https://jviztcgxxfy.feishu.cn/docx/AYv8do5nboNqqjxEtotcruhSnqf)
 
 ![](img/e2347627d62c3061519f55d940771407.png)
 

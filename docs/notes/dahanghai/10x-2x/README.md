@@ -5,7 +5,7 @@ permalink: /dahanghai/o4ce8h3q/
 ---
 # 21天共读营《10倍比2倍更容易》
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/RutodIZZlot6BVxjHAOcrDBmnof`](https://jviztcgxxfy.feishu.cn/docx/RutodIZZlot6BVxjHAOcrDBmnof)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/RutodIZZlot6BVxjHAOcrDBmnof`](https://jviztcgxxfy.feishu.cn/docx/RutodIZZlot6BVxjHAOcrDBmnof)
 
 ![](img/792fc6756e9824de6806ce1d6d044803.png)
 

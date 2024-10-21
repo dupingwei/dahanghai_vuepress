@@ -5,7 +5,7 @@ permalink: /dahanghai/e3kuacf3/
 ---
 # 出海第一站
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/NwYsdbeJpocnLdxxtKYcja5CnNc`](https://jviztcgxxfy.feishu.cn/docx/NwYsdbeJpocnLdxxtKYcja5CnNc)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/NwYsdbeJpocnLdxxtKYcja5CnNc`](https://jviztcgxxfy.feishu.cn/docx/NwYsdbeJpocnLdxxtKYcja5CnNc)
 
 3 月航海 | 出海第一站 | 实战手册
 

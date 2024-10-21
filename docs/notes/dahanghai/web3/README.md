@@ -5,7 +5,7 @@ permalink: /dahanghai/6uw46q22/
 ---
 #  Web3 入门
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/KdX9dIVKnonZkzxURf4cFywundb`](https://jviztcgxxfy.feishu.cn/docx/KdX9dIVKnonZkzxURf4cFywundb)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/KdX9dIVKnonZkzxURf4cFywundb`](https://jviztcgxxfy.feishu.cn/docx/KdX9dIVKnonZkzxURf4cFywundb)
 
 3 月航海｜ Web3 入门｜实战手册
 

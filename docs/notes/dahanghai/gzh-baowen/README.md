@@ -5,7 +5,7 @@ permalink: /dahanghai/nclcxz2y/
 ---
 # 公众号爆文写作（原创）
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/ONRfdTa38oE3ITxcHuhcHY3Cnog`](https://jviztcgxxfy.feishu.cn/docx/ONRfdTa38oE3ITxcHuhcHY3Cnog)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/ONRfdTa38oE3ITxcHuhcHY3Cnog`](https://jviztcgxxfy.feishu.cn/docx/ONRfdTa38oE3ITxcHuhcHY3Cnog)
 
 3 月航海｜公众号爆文写作（原创）｜实战手册
 

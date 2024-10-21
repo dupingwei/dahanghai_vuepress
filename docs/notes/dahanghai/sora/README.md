@@ -5,7 +5,7 @@ permalink: /dahanghai/sq4686h7/
 ---
 # Sora 交流 资讯合集 202403
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/Ah95dcemYoSTKZxYqMOcBMXAnPf`](https://jviztcgxxfy.feishu.cn/docx/Ah95dcemYoSTKZxYqMOcBMXAnPf)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/Ah95dcemYoSTKZxYqMOcBMXAnPf`](https://jviztcgxxfy.feishu.cn/docx/Ah95dcemYoSTKZxYqMOcBMXAnPf)
 
 ![](img/198c6c3de188a972438aa6795b8faeb7.png)
 

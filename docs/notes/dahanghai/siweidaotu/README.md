@@ -5,7 +5,7 @@ permalink: /dahanghai/crvw2ncj/
 ---
 # 思维导图特训
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/XTViduBfgofgulx5hT1cfvhSnYf`](https://jviztcgxxfy.feishu.cn/docx/XTViduBfgofgulx5hT1cfvhSnYf)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/XTViduBfgofgulx5hT1cfvhSnYf`](https://jviztcgxxfy.feishu.cn/docx/XTViduBfgofgulx5hT1cfvhSnYf)
 
 3 月航海 | 思维导图特训 | 实战手册
 

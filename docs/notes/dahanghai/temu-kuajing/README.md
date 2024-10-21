@@ -5,7 +5,7 @@ permalink: /dahanghai/3ngmo95e/
 ---
 # TEMU 跨境电商
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/VhXddZvKYoAHMLx9Caacd1rOnGf`](https://jviztcgxxfy.feishu.cn/docx/VhXddZvKYoAHMLx9Caacd1rOnGf)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/VhXddZvKYoAHMLx9Caacd1rOnGf`](https://jviztcgxxfy.feishu.cn/docx/VhXddZvKYoAHMLx9Caacd1rOnGf)
 
 ![](img/5948898e981576dbaa99bfa98218f836.png)
 

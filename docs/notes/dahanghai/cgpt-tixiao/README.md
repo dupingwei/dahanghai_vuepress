@@ -6,7 +6,7 @@ permalink: /dahanghai/tojri7hx/
 
 # ChatGPT 提效
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/WKxrdFoFWogVStxySLlcsTPqnOb`](https://jviztcgxxfy.feishu.cn/docx/WKxrdFoFWogVStxySLlcsTPqnOb)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/WKxrdFoFWogVStxySLlcsTPqnOb`](https://jviztcgxxfy.feishu.cn/docx/WKxrdFoFWogVStxySLlcsTPqnOb)
 
 3 月航海 | ChatGPT 提效 | 实战手册
 

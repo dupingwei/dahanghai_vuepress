@@ -5,7 +5,7 @@ permalink: /dahanghai/whygiq9v/
 ---
 # 视频号-中老年知识付费（书法国画）
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/FptZdirn0oJ9lwxXvFIc7Rv2nnf`](https://jviztcgxxfy.feishu.cn/docx/FptZdirn0oJ9lwxXvFIc7Rv2nnf)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/FptZdirn0oJ9lwxXvFIc7Rv2nnf`](https://jviztcgxxfy.feishu.cn/docx/FptZdirn0oJ9lwxXvFIc7Rv2nnf)
 
 3 月航海 | 视频号-中老年知识付费（书法国画） | 实战手册
 

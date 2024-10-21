@@ -5,7 +5,7 @@ permalink: /dahanghai/6vt44d84/
 ---
 # 视频号带货
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/Le7PdGnEpoyrDpxpauhcLru7nvf`](https://jviztcgxxfy.feishu.cn/docx/Le7PdGnEpoyrDpxpauhcLru7nvf)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/Le7PdGnEpoyrDpxpauhcLru7nvf`](https://jviztcgxxfy.feishu.cn/docx/Le7PdGnEpoyrDpxpauhcLru7nvf)
 
 3 月航海｜视频号带货｜实战手册
 

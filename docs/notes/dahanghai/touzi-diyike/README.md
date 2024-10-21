@@ -5,7 +5,7 @@ permalink: /dahanghai/stex0gkd/
 ---
 # 有知有行投资第一课
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/Y06Bdiq9yoyGx6xbsP6cvAw6nCb`](https://jviztcgxxfy.feishu.cn/docx/Y06Bdiq9yoyGx6xbsP6cvAw6nCb)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/Y06Bdiq9yoyGx6xbsP6cvAw6nCb`](https://jviztcgxxfy.feishu.cn/docx/Y06Bdiq9yoyGx6xbsP6cvAw6nCb)
 
 ![](img/810b97c10b83b948931a7fb66da508c0.png)
 

@@ -5,7 +5,7 @@ permalink: /dahanghai/i1v9qvwb/
 ---
 # 闲鱼高客单带货
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/JN3fde4amognunxEJ1LcoYI5nsh`](https://jviztcgxxfy.feishu.cn/docx/JN3fde4amognunxEJ1LcoYI5nsh)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/JN3fde4amognunxEJ1LcoYI5nsh`](https://jviztcgxxfy.feishu.cn/docx/JN3fde4amognunxEJ1LcoYI5nsh)
 
 ![](img/a6f93adf89bf61d09dfa1a428f191c8b.png)
 

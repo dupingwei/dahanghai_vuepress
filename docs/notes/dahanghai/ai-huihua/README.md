@@ -5,7 +5,7 @@ permalink: /dahanghai/h84xttb0/
 ---
 # AI 绘画特训
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/XMpQdEOtDovLu1xE6b5c4pNCn8f`](https://jviztcgxxfy.feishu.cn/docx/XMpQdEOtDovLu1xE6b5c4pNCn8f)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/XMpQdEOtDovLu1xE6b5c4pNCn8f`](https://jviztcgxxfy.feishu.cn/docx/XMpQdEOtDovLu1xE6b5c4pNCn8f)
 
 3 月航海 | AI 绘画特训 | 实战手册
 

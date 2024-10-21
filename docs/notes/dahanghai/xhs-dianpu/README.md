@@ -5,7 +5,7 @@ permalink: /dahanghai/lxgeh4u6/
 ---
 # 小红书店铺（百货）
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/MjtDdLvzio4RK5xdcBScu7B7nvd`](https://jviztcgxxfy.feishu.cn/docx/MjtDdLvzio4RK5xdcBScu7B7nvd)
+> 来源：[`https://jviztcgxxfy.feishu.cn/docx/MjtDdLvzio4RK5xdcBScu7B7nvd`](https://jviztcgxxfy.feishu.cn/docx/MjtDdLvzio4RK5xdcBScu7B7nvd)
 
 3 月航海｜小红书店铺（百货）｜实战手册
 
