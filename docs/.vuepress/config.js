@@ -41,23 +41,24 @@ export default defineUserConfig({
        *  markdown power
        * @see https://theme-plume.vuejs.press/config/plugin/markdown-power/
        */
-      // markdownPower: {
-      //   pdf: true,
-      //   caniuse: true,
-      //   plot: true,
-      //   bilibili: true,
-      //   youtube: true,
-      //   icons: true,
-      //   codepen: true,
-      //   replit: true,
-      //   codeSandbox: true,
-      //   jsfiddle: true,
-      //   repl: {
-      //     go: true,
-      //     rust: true,
-      //     kotlin: true,
-      //   },
-      // },
+      markdownPower: {
+        imageSize: true,
+        //   pdf: true,
+        //   caniuse: true,
+        //   plot: true,
+        //   bilibili: true,
+        //   youtube: true,
+        //   icons: true,
+        //   codepen: true,
+        //   replit: true,
+        //   codeSandbox: true,
+        //   jsfiddle: true,
+        //   repl: {
+        //     go: true,
+        //     rust: true,
+        //     kotlin: true,
+        //   },
+      },
 
       /**
        * 评论 comments
