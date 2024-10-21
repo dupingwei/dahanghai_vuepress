@@ -14,7 +14,7 @@ permalink: /dahanghai/
 - [聚光投放](./juguang/README.md)
 - [RPA 提效](./rpa-tixiao/README.md)
 - [思维导图特训](./siweidaotu/README.md)
-- [Sora 交流 资讯合集 202403](./sora/README.md)
+- [Sora 交流 资讯合集](./sora/README.md)
 - [视频号带货](./sph-daihuo/README.md)
 - [视频号分成计划](./sph-fencheng/README.md)
 - [视频号-中老年知识付费（书法国画）](./sph-zhonglaonian/README.md)
