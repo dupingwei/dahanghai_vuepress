@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/',
+  base: '/dahanghai_vuepress',
   lang: 'zh-CN',
   title: '大航海',
   description: '大航海信息',
