@@ -11,20 +11,17 @@ export default defineUserConfig({
 
   bundler: viteBundler(),
 
-  // plugins: [
-  //   googleAnalyticsPlugin({
-  //     id: 'G-D8H87PZHN2',
-  //   }),
-  // ],
+  plugins: [
+    googleAnalyticsPlugin({
+      id: 'G-D8H87PZHN2',
+    }),
+  ],
 
   theme: plumeTheme({
     // 添加您的部署域名
     // hostname: 'https://your_site_url',
 
     plugins: {
-      googleAnalyticsPlugin: {
-        id: 'G-D8H87PZHN2',
-      },
       /**
        * Shiki 代码高亮
        * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/

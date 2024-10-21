@@ -11,6 +11,9 @@ importers:
       '@vuepress/bundler-vite':
         specifier: 2.0.0-rc.18
         version: 2.0.0-rc.18(@types/node@22.7.7)(sass-embedded@1.80.3)(typescript@5.6.3)
+      '@vuepress/plugin-google-analytics':
+        specifier: 2.0.0-rc.54
+        version: 2.0.0-rc.54(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.7.7)(sass-embedded@1.80.3)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))
       http-server:
         specifier: ^14.1.1
         version: 14.1.1
@@ -1025,6 +1028,11 @@ packages:
 
   '@vuepress/plugin-git@2.0.0-rc.54':
     resolution: {integrity: sha512-Yy0elQlKt+2GbeUI+mZMGdbkvCsPXep+lBLaXYQqiIcHC4tXAwj+1FwB18LTICiv3oQDHUtx7ZZwTnYejXJ7sg==}
+    peerDependencies:
+      vuepress: 2.0.0-rc.18
+
+  '@vuepress/plugin-google-analytics@2.0.0-rc.54':
+    resolution: {integrity: sha512-sp9xPpHDHvT8xVrkyn+LCra4VrPJciwC/xL7hMOfKdrkCYlXXGUTz9UXlRWjco3BJunfbxWZECC0Yfolu5qwOw==}
     peerDependencies:
       vuepress: 2.0.0-rc.18
 
@@ -3645,6 +3653,10 @@ snapshots:
   '@vuepress/plugin-git@2.0.0-rc.54(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.7.7)(sass-embedded@1.80.3)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))':
     dependencies:
       execa: 9.4.1
+      vuepress: 2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.7.7)(sass-embedded@1.80.3)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3))
+
+  '@vuepress/plugin-google-analytics@2.0.0-rc.54(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.7.7)(sass-embedded@1.80.3)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))':
+    dependencies:
       vuepress: 2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.7.7)(sass-embedded@1.80.3)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3))
 
   '@vuepress/plugin-markdown-container@2.0.0-rc.54(vuepress@2.0.0-rc.18(@vuepress/bundler-vite@2.0.0-rc.18(@types/node@22.7.7)(sass-embedded@1.80.3)(typescript@5.6.3))(typescript@5.6.3)(vue@3.5.12(typescript@5.6.3)))':
