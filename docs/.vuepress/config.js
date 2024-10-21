@@ -1,6 +1,7 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
+// import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 
 export default defineUserConfig({
   base: '/dahanghai_vuepress',
@@ -10,11 +11,20 @@ export default defineUserConfig({
 
   bundler: viteBundler(),
 
+  // plugins: [
+  //   googleAnalyticsPlugin({
+  //     id: 'G-D8H87PZHN2',
+  //   }),
+  // ],
+
   theme: plumeTheme({
     // 添加您的部署域名
     // hostname: 'https://your_site_url',
 
     plugins: {
+      googleAnalyticsPlugin: {
+        id: 'G-D8H87PZHN2',
+      },
       /**
        * Shiki 代码高亮
        * @see https://theme-plume.vuejs.press/config/plugins/code-highlight/
